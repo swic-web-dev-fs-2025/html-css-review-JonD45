@@ -1,0 +1,16 @@
+p {
+  color: red;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  grid-template-rows: auto 10px; /* Two rows: one auto-sized, one 100px tall */
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
